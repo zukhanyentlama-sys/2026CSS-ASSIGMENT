@@ -86,14 +86,6 @@ h4{
     margin-left: 20%;
     margin-right: 20%;
 }
-h3{
-    text-align: center;
-    font-size: 25px;
-    color: rgb(219, 12, 12);
-    margin-left: 20%;
-    margin-right: 20%;
-
-}
 
 
 #form1{
@@ -212,12 +204,6 @@ h1,h2,h3,h4{
     box-shadow: 0 4px 8px rgba(255, 255, 0, 0.5);
     transform: scale(1.05);
     transition: transform 0.3s ease;
-}
-#team1,#team2,#team3,#team4,#team5,#team8{
-    border: 2px solid #fff;
-    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
-    width: 400px;
-    height: 250px;
 }
 a#home{
     background-color: rgb(255, 255, 0);
@@ -379,4 +365,22 @@ ol{
     color: rgb(255, 255, 255);
     margin-left: 20%;
     margin-right: 20%;
+}
+#social-media{
+    background-color: rgb(255, 255, 0);
+    color: rgb(255, 255, 255);
+    padding: 10px 15px;
+    margin:5px;
+    display: inline-block;
+    border-radius: 5px;
+    text-align: center;
+}
+#social-media:hover{
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+    padding: 10px 15px;
+    margin:5px;
+    display: inline-block;
+    border-radius: 5px;
+    text-align: center;
 }
